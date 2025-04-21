@@ -1,4 +1,3 @@
-артем, [21.04.2025 17:21]
 using System;
 using System.Collections.Generic;
 using System.IO;
